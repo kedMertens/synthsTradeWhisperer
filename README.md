@@ -9,3 +9,5 @@ The report is done with help of text-generation algorithm, [gpt-neo-1.3B](https:
 introduction seeds are used to set a mood for new text at the end details of trade are provided.
 
 Bot is deployed and can be found at https://twitter.com/TradeWisperer
+
+Delay is set to 5 min and threshold 1000$
